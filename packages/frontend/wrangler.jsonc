@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "imp-ui", // The name of your Cloudflare project
+  "compatibility_date": "2025-11-01", // The date to lock in compatibility flags
+    "assets": {
+        "directory": "./dist"
+    }
+}
